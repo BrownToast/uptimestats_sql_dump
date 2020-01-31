@@ -1,0 +1,3 @@
+# diverse_codes
+
+Might usefull codesnippets...
